@@ -1,0 +1,109 @@
+a {
+     font-family: serif;
+     font-weight: none;
+}
+a:visited{
+color:MediumPurple;
+}
+a:link {
+      color: #44749d;
+}
+
+a:hover {
+     font-weight:bold;
+}
+
+a:active {
+     text-decoration: none;
+}
+.beverage caption{
+  text-decoration:underline;
+
+}
+.bname {
+  align-items: left;
+  width: 100px;
+  padding-right: 200px;
+}
+.price {
+  align-items: right;
+  width: 100px;
+  padding-left: 200px;
+}
+.beverage tr:nth-child(even) {background-color: #f2f2f2;}
+.beverage tr:nth-child(odd) {background-color: #FFFFFF;}
+body{
+   font-family: Helvetica,Arial, sans-serif;
+   background-color: #d5d2cb;
+}
+head{
+  font-weight: bold;
+}
+title{
+  font-family: Impact;
+  font-weight: bold;
+}
+h1{
+  font-family: Impact;
+  font-weight: bold;
+  font-style: oblique;
+
+}
+.menu{
+  background-color: AliceBlue;
+}
+.items b{
+  font-size: x-large;
+}
+.content{
+  background-color: LightCyan;
+}
+#one {
+  width: 250px;
+  display: inline-block;
+  margin-left: 250px;
+  float: left;
+  align-content: center;
+
+}
+.titles{
+
+  font-weight:bold;
+}
+#two {
+  width: 250px;
+  display: inline-block;
+  align-content: center
+}
+
+#three {
+  width: 250px;
+  display: inline-block;
+  margin-right: 250px;
+  float: right;
+
+}
+
+#four {
+  width: 250px;
+  display: inline-block;
+  margin-left: 250px;
+  float: left;
+  align-content: center
+}
+
+#five {
+  width: 250px;
+  display: inline-block;
+  align-content: center
+  color: Maroon;
+}
+
+#six {
+  width: 250px;
+  display: inline-block;
+  margin-right: 250px;
+  float: right;
+  align-content: center
+  color: Navy;
+}
